@@ -1,6 +1,6 @@
 
 % Read in the image
-img = imread("siamese-cat.png");
+img = imread("https://www.arizonapetvet.com/blog/wp-content/uploads/2015/08/shutterstock_134696735.jpg");
 
 % Display the original image
 imshow(img);
